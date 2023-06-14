@@ -6,7 +6,7 @@ namespace Engin
         int durability;
         int level;
 
-        Soul(int soulNum)
+        public Soul(int soulNum)
         {
             switch(soulNum)
             {
